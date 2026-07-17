@@ -22,4 +22,4 @@ same for the other two.
 
 ## Next
 
-Wrapping up Python basics soon, moving to ML after this..
+Wrapping up Python basics soon, moving to ML after this.
