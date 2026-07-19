@@ -1,6 +1,6 @@
 # Python — SQLite Database Connection Reference (`sqlite3`)
 
-`sqlite3` is built into Python's standard library — no installation needed.
+`sqlite3` is built into Python's standard library — no installation needed..
 
 ## Basic Connection Flow
 ```python
